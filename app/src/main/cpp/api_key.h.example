@@ -1,0 +1,4 @@
+#ifndef ANDROID_HIDE_SECRETS_API_KEY_H
+#define ANDROID_HIDE_SECRETS_API_KEY_H "place-the-api-key-here"
+
+#endif //ANDROID_HIDE_SECRETS_API_KEY_H
